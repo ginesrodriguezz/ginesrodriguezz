@@ -31,6 +31,7 @@
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/ai.svg" />
    </p>
   
 </div>
